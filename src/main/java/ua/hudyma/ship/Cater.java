@@ -20,7 +20,6 @@ public class Cater extends Ship {
             randomizeLocation();
         }
         gridArray[x][y] = 'X';
-
     }
 
     int getRandomSlot (){

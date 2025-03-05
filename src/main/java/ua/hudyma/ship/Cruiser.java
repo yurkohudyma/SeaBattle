@@ -8,7 +8,6 @@ public class Cruiser extends Ship {
     }
 
     @Override
-    void randomizeLocation() {
-
+    public void randomizeLocation() {
     }
 }
